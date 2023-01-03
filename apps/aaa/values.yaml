@@ -1,1 +1,4 @@
 demodata: fromaaa
+
+image:
+  PullPolicy: Always
